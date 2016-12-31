@@ -6,8 +6,8 @@
 
 * [EcmaScript 6 and TypeScript Features](handout_es/features/README.md)
   * [ES6](handout/features/es6.md)
-       * [Classes](handout/features/classes.md)
-       * [Refresher on 'this'](handout/features/refresher_on_this.md)
+       * [Clases](handout/features/classes.md)
+       * [Un refrescado de 'this'](handout/features/refresher_on_this.md)
        * [Arrow Functions](handout/features/arrow_functions.md)
        * [Template Strings](handout/features/template_strings.md)
        * [Inheritance](handout/features/inheritance.md)

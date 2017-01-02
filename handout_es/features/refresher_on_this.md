@@ -65,4 +65,4 @@ class ServerRequest {
 }
 ```
 
-En el ejemplo superior `this` _no_ apuntará al objeto esperado: en modo "strict" será `undefined`. Esto lleva a otra característica de ES6, las funciones flecha, que serán cubiertas acontinuación.
+En el ejemplo superior `this` _no_ apuntará al objeto esperado: en modo "strict" será `undefined`. Esto lleva a otra característica de ES6, las funciones flecha, que serán cubiertas a continuación.
